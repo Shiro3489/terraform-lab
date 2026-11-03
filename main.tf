@@ -19,7 +19,7 @@ required_providers {
 
 
 resource "random_pet" "lab" { 
-  length = 2
+  length = 3
 }
 
   output "pet_name" {
